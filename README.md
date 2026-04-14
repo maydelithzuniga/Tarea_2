@@ -59,3 +59,13 @@ Ejemplos de uso con tipos primitivos y tipos definidos por el usuario.
 Notas:
 
 Se incluyen casos donde el código compila correctamente y otros donde falla, explicando en cada caso qué concepto no se cumple.
+
+
+
+Autores:
+
+
+- Maydelith Laura Zúñiga Cabrera
+
+- Joaquín Mathias Alejandro Llallire Meza
+
